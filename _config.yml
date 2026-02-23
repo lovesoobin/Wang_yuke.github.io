@@ -24,13 +24,14 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Yuke Wang"
+  pronouns         : "he"  
+  bio              : "First-year Master's student in Applied Statistics @ Zhejiang Gongshang University | Researching LLM jailbreak"
+  location          : "Hangzhou, China"
+  email             : 25020040167@pop.zjgsu.edu.cn
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  
 
   # Academic websites
   academia         : # URL
